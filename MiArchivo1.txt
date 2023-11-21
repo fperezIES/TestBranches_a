@@ -1,2 +1,3 @@
 Este es mi primer fichero.
+Línea conflictiva desde main.
 Cambios en rama prueba.
