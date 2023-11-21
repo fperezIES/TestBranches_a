@@ -1,2 +1,3 @@
 Este es mi primer fichero.
+Esta línea es conflictiva en rama prueba2.
 Cambios en rama prueba.
